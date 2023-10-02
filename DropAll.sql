@@ -1,0 +1,10 @@
+DROP TABLE memberOf;
+DROP TABLE created;
+DROP TABLE contributedTo;
+DROP TABLE isVersionOf;
+DROP TABLE contributor;
+DROP TABLE band;
+DROP TABLE song;
+DROP TABLE songQueue;
+DROP TABLE karaokeFile;
+DROP TABLE user;
